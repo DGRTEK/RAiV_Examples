@@ -1,13 +1,13 @@
-# RAiV Python Examples Repository
+# Robotic AI Vision (RAiV) Python Examples Repository
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
-[![RAiV](https://img.shields.io/badge/RAiV-Robotic%20AI%20Vision-0066cc)](https://www.ml-vpn.com/en/robotic_ai_vision.html)
+[![Robotic AI Vision (RAiV)](https://img.shields.io/badge/RAiV-Robotic%20AI%20Vision-0066cc)](https://www.ml-vpn.com/en/robotic_ai_vision.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Robotic Ai Vision (RAiV) is an intelligent stereo camera system that combines 3D vision with powerful onboard processing. Built for robotics and automation applications, RAiV delivers real-time depth sensing, object detection, heading estimation, and low-latency video streaming—all through an open-source software ecosystem.
 
-For technical information, see [RAiV Product Page](https://www.ml-vpn.com/en/robotic_ai_vision.html).
-For usage, see [RAiV guide](https://www.ml-vpn.com/en/guide_RAiV.html) and [our blog](https://www.ml-vpn.com/en/blog.html).
+For technical information, see [Robotic AI Vision (RAiV) Product Page](https://www.ml-vpn.com/en/robotic_ai_vision.html).
+For usage, see [Robotic AI Vision (RAiV) guide](https://www.ml-vpn.com/en/guide_RAiV.html) and [our blog](https://www.ml-vpn.com/en/blog.html).
 
 
 This repository contains Python example code demonstrating RAiV's capabilities, from basic setup to advanced edge AI applications. Examples run directly on RAiV's onboard processor or communicate with a PC client for distributed processing.
@@ -39,12 +39,12 @@ raiv-examples/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- RAiV device (https://www.ml-vpn.com/en/robotic_ai_vision.html)
+- Robotic AI Vision (RAiV) device (https://www.ml-vpn.com/en/robotic_ai_vision.html)
 - Python 3.8+ on development machine
 - Network connectivity between PC and RAiV (via Ethernet/WiFi)
 
 ### Setup Workflow
-1. **Connect to RAiV**  
+1. **Connect to Robotic AI Vision (RAiV)**  
    Access RAiV's web interface at `http://<RAiV_IP>` (default: `192.168.10.55`)
 
 2. **Upload Code**  
@@ -53,7 +53,7 @@ raiv-examples/
    - Upload files from example folders (e.g., `01A-hello_world/user_main.py`)
 
 3. **Run Examples**  
-   RAiV has a sandboxed Python environment to run user's Python codes. After the python files are uploaded by using the web interface, RAiV checks the codes for semantic correctness and executability. If all of the codes pass the checks, then RAiV runs them.
+   Robotic AI Vision (RAiV) has a sandboxed Python environment to run user's Python codes. After the python files are uploaded by using the web interface, RAiV checks the codes for semantic correctness and executability. If all of the codes pass the checks, then RAiV runs them.
 
 4. **PC-Side Execution**  
    For client examples (e.g., `01B-hello_world`, `02A-net_comm-Client`):
@@ -82,7 +82,7 @@ raiv-examples/
 
 ## 🔑 Key Modules
 
-RAiV's Python SDK provides specialized modules for hardware access:
+Robotic AI Vision (RAiV)'s Python SDK provides specialized modules for hardware access:
 
 ```python
 
@@ -169,4 +169,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > 💡 **Pro Tip**: Start with `01A-hello_world` and `02C-net_comm` to establish your development workflow before advancing to computer vision examples.
 
-*RAiV: See the world in 3D at the edge.* 🤖👁️👁️
+*Robotic AI Vision (RAiV): See the world in 3D at the edge.* 🤖👁️👁️
