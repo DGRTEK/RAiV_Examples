@@ -1,12 +1,12 @@
 # RAiV Python Examples Repository
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
-[![RAiV](https://img.shields.io/badge/RAiV-Robotic%20AI%20Vision-0066cc)](https://www.ml-vpn.com/en/others_RAiV.html)
+[![RAiV](https://img.shields.io/badge/RAiV-Robotic%20AI%20Vision-0066cc)](https://www.ml-vpn.com/en/robotic_ai_vision.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Robotic Ai Vision (RAiV) is an intelligent stereo camera system that combines 3D vision with powerful onboard processing. Built for robotics and automation applications, RAiV delivers real-time depth sensing, object detection, heading estimation, and low-latency video streaming—all through an open-source software ecosystem.
 
-For technical information, see [RAiV Product Page](https://www.ml-vpn.com/en/others_RAiV.html).
+For technical information, see [RAiV Product Page](https://www.ml-vpn.com/en/robotic_ai_vision.html).
 For usage, see [RAiV guide](https://www.ml-vpn.com/en/guide_RAiV.html) and [our blog](https://www.ml-vpn.com/en/blog.html).
 
 
@@ -39,7 +39,7 @@ raiv-examples/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- RAiV device (https://www.ml-vpn.com/en/others_RAiV.html)
+- RAiV device (https://www.ml-vpn.com/en/robotic_ai_vision.html)
 - Python 3.8+ on development machine
 - Network connectivity between PC and RAiV (via Ethernet/WiFi)
 
@@ -164,7 +164,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Support & Resources
 
 - **Official Documentation**: https://www.ml-vpn.com/en/guide_RAiV.html#py-sdk
-- **Hardware Specs**: https://www.ml-vpn.com/en/others_RAiV.html
+- **Hardware Specs**: https://www.ml-vpn.com/en/robotic_ai_vision.html
 - **Issue Tracker**: [GitHub Issues](https://github.com/ML-VPN/RAiV_Examples/issues)
 
 > 💡 **Pro Tip**: Start with `01A-hello_world` and `02C-net_comm` to establish your development workflow before advancing to computer vision examples.
