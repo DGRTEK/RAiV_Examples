@@ -1,13 +1,13 @@
 # Robotic AI Vision (RAiV) Python Examples Repository
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
-[![Robotic AI Vision (RAiV)](https://img.shields.io/badge/RAiV-Robotic%20AI%20Vision-0066cc)](https://www.ml-vpn.com/en/robotic_ai_vision.html)
+[![Robotic AI Vision (RAiV)](https://img.shields.io/badge/RAiV-Robotic%20AI%20Vision-0066cc)](https://www.dgrtek.com/en/robotic_ai_vision.html)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Robotic Ai Vision (RAiV) is an intelligent stereo camera system that combines 3D vision with powerful onboard processing. Built for robotics and automation applications, RAiV delivers real-time depth sensing, object detection, heading estimation, and low-latency video streaming—all through an open-source software ecosystem.
 
-For technical information, see [Robotic AI Vision (RAiV) Product Page](https://www.ml-vpn.com/en/robotic_ai_vision.html).
-For usage, see [Robotic AI Vision (RAiV) guide](https://www.ml-vpn.com/en/guide_RAiV.html) and [our blog](https://www.ml-vpn.com/en/blog.html).
+For technical information, see [Robotic AI Vision (RAiV) Product Page](https://www.dgrtek.com/en/robotic_ai_vision.html).
+For usage, see [Robotic AI Vision (RAiV) guide](https://www.dgrtek.com/en/guide_RAiV.html) and [our blog](https://www.dgrtek.com/en/blog.html).
 
 
 This repository contains Python example code demonstrating RAiV's capabilities, from basic setup to advanced edge AI applications. Examples run directly on RAiV's onboard processor or communicate with a PC client for distributed processing.
@@ -39,7 +39,7 @@ raiv-examples/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Robotic AI Vision (RAiV) device (https://www.ml-vpn.com/en/robotic_ai_vision.html)
+- Robotic AI Vision (RAiV) device (https://www.dgrtek.com/en/robotic_ai_vision.html)
 - Python 3.8+ on development machine
 - Network connectivity between PC and RAiV (via Ethernet/WiFi)
 
@@ -111,7 +111,7 @@ import qCU_CCtrl
 import qCU_PinBus
 ```
 
-> 💡 **Note**: Full SDK documentation available at [https://www.ml-vpn.com/en/guide_RAiV.html#py-sdk)
+> 💡 **Note**: Full SDK documentation available at [https://www.dgrtek.com/en/guide_RAiV.html#py-sdk)
 
 ---
 
@@ -163,9 +163,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Support & Resources
 
-- **Official Documentation**: https://www.ml-vpn.com/en/guide_RAiV.html#py-sdk
-- **Hardware Specs**: https://www.ml-vpn.com/en/robotic_ai_vision.html
-- **Issue Tracker**: [GitHub Issues](https://github.com/ML-VPN/RAiV_Examples/issues)
+- **Official Documentation**: https://www.dgrtek.com/en/guide_RAiV.html#py-sdk
+- **Hardware Specs**: https://www.dgrtek.com/en/robotic_ai_vision.html
+- **Issue Tracker**: [GitHub Issues](https://github.com/DGRTEK/RAiV_Examples/issues)
 
 > 💡 **Pro Tip**: Start with `01A-hello_world` and `02C-net_comm` to establish your development workflow before advancing to computer vision examples.
 
